@@ -1,0 +1,3 @@
+<Solution>
+  <Project Path="repositorio de freduca/repositorio de freduca.csproj" />
+</Solution>

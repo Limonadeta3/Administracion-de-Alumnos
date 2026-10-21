@@ -1,0 +1,3 @@
+<Solution>
+  <Project Path="administracion de alumnos/administracion de alumnos.csproj" Id="7dcb05aa-f77d-4d8f-b192-9a4c9e35fd3b" />
+</Solution>
